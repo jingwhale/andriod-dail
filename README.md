@@ -1,4 +1,4 @@
-# andriod-Dail
+# andriod-dail
 Dail is developed based eclipce andriod platform software, its main function is to call. This software is only imitate simple function call.<br>
 As follows:<br>
 ![](https://github.com/jingwhale/andriod-Dail/raw/master/README.png)
